@@ -3,6 +3,6 @@ class HelloWorld
 {
 	public function sayHello()
 	{
-		echo "Hello! How are you?";
+		echo "Hello! How are you???";
 	}
 }
